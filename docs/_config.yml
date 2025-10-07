@@ -30,12 +30,12 @@ github_username:
 facebook_username: StrefaZeroPoznan
 
 # Build settings
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   
-remote-theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+remote-theme: https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
