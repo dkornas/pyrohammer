@@ -31,10 +31,22 @@ facebook_username: StrefaZeroPoznan
 
 # Build settings
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  
 thremote-theme: mmistakes/minimal-mistakes
 
 include:
