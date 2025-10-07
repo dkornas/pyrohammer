@@ -33,8 +33,9 @@ facebook_username: StrefaZeroPoznan
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
-theme: minimal-mistakes-jekyll
+thremote-theme: mmistakes/minimal-mistakes
 
 include:
   - _pages
