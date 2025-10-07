@@ -27,11 +27,15 @@ baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://pyrohammer.pl"
 twitter_username: jekyllrb
 github_username:  jekyll
+facebook_username:  StrefaZeroPoznan
 
 # Build settings
 theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  
+remote-theme: https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
