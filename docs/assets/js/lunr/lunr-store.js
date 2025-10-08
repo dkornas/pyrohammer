@@ -6,9 +6,9 @@ var store = [{
         "teaser": null
       },{
         "title": "Nowe informacje",
-        "excerpt":"Na stronie pojawiły się informacje o terminarzu, atrakcjach w miejscu turnieju i w najbliższej okolicy, a także podstawy compa turniejowego.   W przypadku tego ostatniego spodziewamy się jeszcze drobnych zmian, szczególnie związanych z armią Grand Cathay.  ","categories": ["News"],
+        "excerpt":"Na stronie pojawiły się informacje o terminarzu, atrakcjach w miejscu turnieju i w najbliższej okolicy, a także podstawy compa turniejowego.     W przypadku tego ostatniego spodziewamy się jeszcze drobnych zmian, szczególnie związanych z armią Grand Cathay.  ","categories": ["News"],
         "tags": ["News","Updates"],
-        "url": "/news/juz-prawie/",
+        "url": "/news/nowe-informacje/",
         "teaser": null
       },{
     "title": "Page Not Found",
