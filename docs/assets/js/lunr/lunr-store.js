@@ -1,8 +1,14 @@
 var store = [{
         "title": "Witamy!",
-        "excerpt":"Strona turnieju Pyrohammer 2025 rusza od dziś. Aktualności i informacje na temat spraw organizacyjnych, lokalizacji i całej logistyki pojawią się wkrótce.     Niebawem aktywny będzie także link do ChampionsHub gdzie oficnalnie ruszą zapisy na turniej. Link można znaleźć na stronie głównej.   ","categories": ["News"],
+        "excerpt":"Strona turnieju Pyrohammer 2025 rusza od dziś. Aktualności i informacje na temat spraw organizacyjnych, lokalizacji i całej logistyki pojawią się wkrótce.     Niebawem aktywny będzie także link do ChampionsHub gdzie oficjalnie ruszą zapisy na turniej. Link można znaleźć na stronie głównej.   ","categories": ["News"],
         "tags": ["News","Updates"],
         "url": "/news/witamy/",
+        "teaser": null
+      },{
+        "title": "Nowe informacje",
+        "excerpt":"Na stronie pojawiły się informacje o terminarzu, atrakcjach w miejscu turnieju i w najbliższej okolicy, a także podstawy compa turniejowego.   W przypadku tego ostatniego spodziewamy się jeszcze drobnych zmian, szczególnie związanych z armią Grand Cathay.  ","categories": ["News"],
+        "tags": ["News","Updates"],
+        "url": "/news/juz-prawie/",
         "teaser": null
       },{
     "title": "Page Not Found",
@@ -21,7 +27,7 @@ var store = [{
     "excerpt":"Galeria.  ","url": "https://pyrohammer.pl/galeria/"
   },{
     "title": "Lokalizacja",
-    "excerpt":"Canis Lupus - Kinepolis  Turniej odbędzie się w sklepie Canis Lupus na terenie poznańskiego Kinepolis. To sklep z grami, gralnia i klubokawiarnia ze świetnym zapleczem i obsługą.   Oprócz samej gralni Canis Lupus posiada własny bar z napojami i przekąskami.   Po wejściu do atrium Canis Lupus można znaleźć na pierwszym piętrze, na lewo po schodach.    \t \tCanis Lupus   Dojazd   Kinepolis znajduje się w południowej części Poznania, niedaleko zjazdu Krzesiny z autostrady A2.     Z dworca kolejowego Poznań Głowny dojechać można tramwajem numer 18 do Centrum handlowego M1, a stamtąd autobusem numer 181. Podróż powinna zająć około 30 minut.   Restauracje   Tuż obok miejsca organizacji turnieju, dosłownie w odległości rzutu kostką jest Restauracja Garaż (kuchnia włoska).    \t \tRestauracja Garaż   W odległości około 15 minut pieszo (lub 2-3 minut samochodem) jest także McDonalds, a nieco dalej Centrum Handlowe M1 z wieloma restauracjami.   Parking   Duży parking przy Kinepolis na pewno pomieści wszystkie samochody. Ceny nie są wygórowane i pozostawienie auta na cały dzień to koszt około 10 złotych.      Pierwsza godzina: 2.00 PLN   Dwie godziny: 3.50 PLN   Trzy godziny 5.00 PLN   Każda kolejna godzina 0.50 PLN.    \t \tKinepolis parking  ","url": "https://pyrohammer.pl/lokalizacja/"
+    "excerpt":"Canis Lupus - Kinepolis   \t \t  Turniej odbędzie się w sklepie Canis Lupus na terenie poznańskiego Kinepolis. To sklep z grami, gralnia i klubokawiarnia ze świetnym zapleczem i obsługą.   Oprócz samej gralni Canis Lupus posiada własny bar z napojami i przekąskami.   Po wejściu do atrium Canis Lupus można znaleźć na pierwszym piętrze, na lewo po schodach.    \t \tCanis Lupus   Dojazd   Kinepolis znajduje się w południowej części Poznania, niedaleko zjazdu Krzesiny z autostrady A2.     Z dworca kolejowego Poznań Głowny dojechać można tramwajem numer 18 do Centrum handlowego M1, a stamtąd autobusem numer 181. Podróż powinna zająć około 30 minut.   Restauracje   Tuż obok miejsca organizacji turnieju, dosłownie w odległości rzutu kostką jest Restauracja Garaż (kuchnia włoska).    \t \tRestauracja Garaż   W odległości około 15 minut pieszo (lub 2-3 minut samochodem) jest także McDonalds, a nieco dalej Centrum Handlowe M1 z wieloma restauracjami.   Parking   Duży parking przy Kinepolis na pewno pomieści wszystkie samochody. Ceny nie są wygórowane i pozostawienie auta na cały dzień to koszt około 10 złotych.      Pierwsza godzina: 2.00 PLN   Dwie godziny: 3.50 PLN   Trzy godziny 5.00 PLN   Każda kolejna godzina 0.50 PLN.    \t \tKinepolis parking  ","url": "https://pyrohammer.pl/lokalizacja/"
   },{
     "title": "Modelarka",
     "excerpt":"Ocena modelarska. Konkurs malowania. ","url": "https://pyrohammer.pl/modelarka/"
