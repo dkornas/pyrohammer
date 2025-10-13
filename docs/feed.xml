@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://pyrohammer.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pyrohammer.pl/" rel="alternate" type="text/html" /><updated>2025-10-09T16:12:48+02:00</updated><id>https://pyrohammer.pl/feed.xml</id><title type="html">Pyrohammer 2025</title><subtitle>Pyrohammer 2025 - Turniej Warhammer: The Old World klasy master - 06-07.12.2025 Poznań</subtitle><author><name>Dominik Kornaś</name></author><entry><title type="html">Turniej oficjalnie ogłoszony</title><link href="https://pyrohammer.pl/news/turniej-ogloszony/" rel="alternate" type="text/html" title="Turniej oficjalnie ogłoszony" /><published>2025-10-09T00:00:00+02:00</published><updated>2025-10-09T00:00:00+02:00</updated><id>https://pyrohammer.pl/news/turniej-ogloszony</id><content type="html" xml:base="https://pyrohammer.pl/news/turniej-ogloszony/"><![CDATA[<p>Turniej został dziś oficjalnie opublikowany na <a href="https://championshub.app/wh_ow/events/01009416-3ac4-4ebc-ada4-5944eabac637">ChampionsHub</a> oraz Discordzie i na socialach.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://pyrohammer.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pyrohammer.pl/" rel="alternate" type="text/html" /><updated>2025-10-13T14:50:24+02:00</updated><id>https://pyrohammer.pl/feed.xml</id><title type="html">Pyrohammer 2025</title><subtitle>Pyrohammer 2025 - Turniej Warhammer: The Old World klasy master - 06-07.12.2025 Poznań</subtitle><author><name>Dominik Kornaś</name></author><entry><title type="html">Update compa turniejowego</title><link href="https://pyrohammer.pl/news/update-compa-turniejowego/" rel="alternate" type="text/html" title="Update compa turniejowego" /><published>2025-10-13T00:00:00+02:00</published><updated>2025-10-13T00:00:00+02:00</updated><id>https://pyrohammer.pl/news/update-compa-turniejowego</id><content type="html" xml:base="https://pyrohammer.pl/news/update-compa-turniejowego/"><![CDATA[<p>Cześć!</p>
+
+<p>Nasz <a href="/comp">comp</a> turniejowy został uaktualniony.</p>
+
+<!--more-->
+
+<h3 id="grand-cathay">Grand Cathay</h3>
+<p>Sekcja dotycząca armii Grand Cathay uległa zmianie i obecnie prezentuje się następujaco:</p>
+
+<ul>
+  <li>
+    <p>0-1 Ring of Jet</p>
+  </li>
+  <li>
+    <p>0-2 Sky Lantern (Sky Lantern jako mount dla herosów liczony jest jako x2)</p>
+  </li>
+  <li>
+    <p>0-4 wyborów spośród:</p>
+    <ul>
+      <li>Sky Lantern - koszt: 1 wybór</li>
+      <li>Sky Lantern jako mount - koszt: 2 wybory</li>
+      <li>Shugengan Lord/General - koszt: 1 wybór</li>
+      <li>Cathayan Grand Cannon - koszt: 1 wybór</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Przykładowe wybory spełniające ograniecznia:</p>
+<ul>
+  <li>Shugengan Lord + Shugengan General + Sky Lantern + Cathayan Grand Cannon</li>
+  <li>3 x Shugengan General + Sky Lantern</li>
+  <li>Lord Magistrate on Sky Lantern (liczy się za 2 wybory Sky Lantern) + 2x Cathayan Grand Cannon</li>
+  <li>2 x Sky Lantern + 2 x Shugengan Lord</li>
+</ul>
+
+<h3 id="vampire-counts">Vampire Counts</h3>
+<p>Utrzymujemy wcześniej ustalone restrykcje. Doprecyzowaniu ulega jedynie zapis o działaniu regeneracji, czyli:</p>
+
+<ul>
+  <li>
+    <p>0-2 Wailing Dirge</p>
+  </li>
+  <li>
+    <p>Regeneracja nie działa na zasadę Unstable</p>
+  </li>
+  <li>
+    <p>Regeneracja nie działa na rany otrzymane w wyniku niezdanego testu LD po śmierci generała</p>
+  </li>
+</ul>
+
+<h3 id="tomb-kings">Tomb Kings</h3>
+<p>Utrzymujemy wcześniej ustalone restrykcje. Doprecyzowaniu ulega jedynie zapis o działaniu regeneracji, czyli:</p>
+
+<ul>
+  <li>Regeneracja nie działa na rany otrzymane w wyniku niezdanego testu LD po śmierci hierofanty</li>
+</ul>
+
+<h3 id="dlaczego-nie-ban">Dlaczego nie ban?</h3>
+
+<p>Podzielamy zdanie Eda. Choć nie mamy ochoty na robienie compa i pisanie własnych zasad, to wydaje się to być mniejszym złem niż banowanie armii i wykluczanie graczy z hobby.</p>
+
+<figure>
+	<a href="/assets/images/comp/ban.png"><img src="/assets/images/comp/ban.png" /></a>
+</figure>
+
+<p>Nie da się uzdrowić win ratio Cathayu i sprowadzić power levelu tej armii do rozsądnego poziomu poprzez ban armii. Brak gier to brak wpływu na win ratio.</p>
+
+<p>Comp na turniej ustalilismy po analizie opinii graczy (także czytając Discorda do porannej kawki), ale przede wszystkim po rozmowie w gronie organizatorsko-sędziowskim: James, Myzu, Thurion.</p>
+
+<p>Liczymy na wasze zrozumienie i wsparcie!</p>]]></content><author><name>Dominik Kornaś</name></author><category term="News" /><category term="News" /><category term="Updates" /><summary type="html"><![CDATA[Cześć! Nasz comp turniejowy został uaktualniony.]]></summary></entry><entry><title type="html">Turniej oficjalnie ogłoszony</title><link href="https://pyrohammer.pl/news/turniej-ogloszony/" rel="alternate" type="text/html" title="Turniej oficjalnie ogłoszony" /><published>2025-10-09T00:00:00+02:00</published><updated>2025-10-09T00:00:00+02:00</updated><id>https://pyrohammer.pl/news/turniej-ogloszony</id><content type="html" xml:base="https://pyrohammer.pl/news/turniej-ogloszony/"><![CDATA[<p>Turniej został dziś oficjalnie opublikowany na <a href="https://championshub.app/wh_ow/events/01009416-3ac4-4ebc-ada4-5944eabac637">ChampionsHub</a> oraz Discordzie i na socialach.</p>
 
 <p>Zapraszamy do zgłoszeń!</p>
 
