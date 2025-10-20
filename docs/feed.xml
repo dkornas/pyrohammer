@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://pyrohammer.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pyrohammer.pl/" rel="alternate" type="text/html" /><updated>2025-10-13T14:58:56+02:00</updated><id>https://pyrohammer.pl/feed.xml</id><title type="html">Pyrohammer 2025</title><subtitle>Pyrohammer 2025 - Turniej Warhammer: The Old World klasy master - 06-07.12.2025 Poznań</subtitle><author><name>Dominik Kornaś</name></author><entry><title type="html">Update compa turniejowego</title><link href="https://pyrohammer.pl/news/update-compa-turniejowego/" rel="alternate" type="text/html" title="Update compa turniejowego" /><published>2025-10-13T00:00:00+02:00</published><updated>2025-10-13T00:00:00+02:00</updated><id>https://pyrohammer.pl/news/update-compa-turniejowego</id><content type="html" xml:base="https://pyrohammer.pl/news/update-compa-turniejowego/"><![CDATA[<p>Cześć!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://pyrohammer.pl/feed.xml" rel="self" type="application/atom+xml" /><link href="https://pyrohammer.pl/" rel="alternate" type="text/html" /><updated>2025-10-20T11:48:58+02:00</updated><id>https://pyrohammer.pl/feed.xml</id><title type="html">Pyrohammer 2025</title><subtitle>Pyrohammer 2025 - Turniej Warhammer: The Old World klasy master - 06-07.12.2025 Poznań</subtitle><author><name>Dominik Kornaś</name></author><entry><title type="html">Update compa turniejowego</title><link href="https://pyrohammer.pl/news/update-compa-turniejowego/" rel="alternate" type="text/html" title="Update compa turniejowego" /><published>2025-10-13T00:00:00+02:00</published><updated>2025-10-13T00:00:00+02:00</updated><id>https://pyrohammer.pl/news/update-compa-turniejowego</id><content type="html" xml:base="https://pyrohammer.pl/news/update-compa-turniejowego/"><![CDATA[<p>Cześć!</p>
 
 <p>Nasz <a href="/comp">comp</a> turniejowy został uaktualniony.</p>
 
@@ -44,7 +44,7 @@
     <p>Regeneracja nie działa na zasadę Unstable</p>
   </li>
   <li>
-    <p>Regeneracja nie działa na rany otrzymane w wyniku niezdanego testu LD po śmierci generała</p>
+    <p>Jeśli po śmierci generała jakiś oddział nadal ma regenerację (np. z przedmoitu) to nie działa ona na rany otrzymane w wyniku niezdanego testu LD</p>
   </li>
 </ul>
 
@@ -52,7 +52,7 @@
 <p>Utrzymujemy wcześniej ustalone restrykcje. Doprecyzowaniu ulega jedynie zapis o działaniu regeneracji, czyli:</p>
 
 <ul>
-  <li>Regeneracja nie działa na rany otrzymane w wyniku niezdanego testu LD po śmierci hierofanty</li>
+  <li>Jeśli po śmierci hierofanty jakiś oddział nadal ma regenerację (np. z przedmoitu) to nie działa ona na rany otrzymane w wyniku niezdanego testu LD</li>
 </ul>
 
 <h3 id="dlaczego-nie-ban">Dlaczego nie ban?</h3>
