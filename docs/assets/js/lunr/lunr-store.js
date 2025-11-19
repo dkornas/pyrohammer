@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Nagrody",
-        "excerpt":"Hej!   Zdecydowaliśmy, że oprócz czołówki turnieju warto nagrodzić graczy w dwóch dodatkowych kategoriach!     Planujemy przyznać nagrody:      Za zajęcie miejsca w pierwszej trójce turnieju.   Za zwycięstwo w konkursie modelarsko-malarskim. Chcemy wyróżnić także wkład włożony w wygląd armii, oddziałów i poszczególnych figurek. Niech godziny spędzone z farbami i pędzelkiem mają też swoje wymierne efekty ;)   Dla największego klimaciarza. Ilu graczy, tyle definicji klimaciarstwa. Rezerwujemy sobie możliwość wyróżnienia gracza z najbardziej oryginalną, odjechaną lub zaskakującą listą. Zainspirował nas team WROrzywniak na DMP, który świetnie połączył klimaciarstwo z wynkami!  ","categories": ["News"],
+        "excerpt":"Hej!   Zdecydowaliśmy, że oprócz czołówki turnieju warto nagrodzić graczy w dwóch dodatkowych kategoriach!     Planujemy przyznać nagrody:      Za zajęcie miejsca w pierwszej trójce turnieju.   Za zwycięstwo w konkursie modelarsko-malarskim. Chcemy wyróżnić także wkład włożony w wygląd armii, oddziałów i poszczególnych figurek. Niech godziny spędzone z farbami i pędzelkiem mają też swoje wymierne efekty ;)   Dla największego klimaciarza. Ilu graczy, tyle definicji klimaciarstwa. Rezerwujemy sobie możliwość wyróżnienia gracza z najbardziej oryginalną, odjechaną lub zaskakującą listą. Zainspirował nas team WROrzywniak na DMP, który świetnie połączył klimaciarstwo z wynikami!  ","categories": ["News"],
         "tags": ["News","Updates"],
         "url": "/news/nagrody-kategorie/",
         "teaser": null
