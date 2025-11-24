@@ -29,6 +29,12 @@ var store = [{
         "url": "/news/nagrody-kategorie/",
         "teaser": null
       },{
+        "title": "Więcej nagród",
+        "excerpt":"Jest o co grać!   Dzięki wsparciu zaprzyjaźnionej firmy VML Enterprise Solutions, pula nagród znacząco wzrosła.     Tak jak wspominaliśmy w poprzednim poście, planujemy przyznać łacznie pięć nagród. Dla czołowej trójki, najlepszego malarza i klimaciarza.   Teraz mozemy zdradzić, że dzięki dodatkowemu wsparciu KAŻDY z wyróżnionych otrzyma następujący zestaw upominków:     plecak   torbę typu “nerka”   skarpetki   bidon   podstawki pod telefon komórkowy   A to jedynie dodatek do zasadniczych nagród!    \t   Jest jeszcze czas na zgłoszenia. Zapraszamy!  ","categories": ["News"],
+        "tags": ["News","Updates"],
+        "url": "/news/wiecej-nagrod/",
+        "teaser": null
+      },{
     "title": "Page Not Found",
     "excerpt":"Sorry, but the page you were trying to view does not exist.  ","url": "https://pyrohammer.pl/404.html"
   },{
