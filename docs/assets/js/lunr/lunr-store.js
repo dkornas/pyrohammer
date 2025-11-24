@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Więcej nagród",
-        "excerpt":"Jest o co grać!   Dzięki wsparciu zaprzyjaźnionej firmy VML Enterprise Solutions, pula nagród znacząco wzrosła.     Tak jak wspominaliśmy w poprzednim poście, planujemy przyznać łacznie pięć nagród. Dla czołowej trójki, najlepszego malarza i klimaciarza.   Teraz mozemy zdradzić, że dzięki dodatkowemu wsparciu KAŻDY z wyróżnionych otrzyma następujący zestaw upominków:     plecak   torbę typu “nerka”   skarpetki   bidon   podstawki pod telefon komórkowy   A to jedynie dodatek do zasadniczych nagród!    \t   Jest jeszcze czas na zgłoszenia. Zapraszamy!  ","categories": ["News"],
+        "excerpt":"Jest o co grać!   Dzięki wsparciu zaprzyjaźnionej firmy VML Enterprise Solutions, pula nagród znacząco wzrosła.     Tak jak wspominaliśmy w poprzednim poście, planujemy przyznać łącznie pięć nagród. Dla czołowej trójki, najlepszego malarza i klimaciarza.   Teraz możemy zdradzić, że dzięki dodatkowemu wsparciu KAŻDY z wyróżnionych otrzyma następujący zestaw upominków:     plecak   torbę typu “nerka”   skarpetki   bidon   podstawki pod telefon komórkowy   A to jedynie dodatek do zasadniczych nagród!    \t   Jest jeszcze czas na zgłoszenia. Zapraszamy!  ","categories": ["News"],
         "tags": ["News","Updates"],
         "url": "/news/wiecej-nagrod/",
         "teaser": null
