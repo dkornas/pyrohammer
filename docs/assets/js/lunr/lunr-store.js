@@ -42,9 +42,15 @@ var store = [{
         "teaser": null
       },{
         "title": "Druga edycja turnieju ogłoszona",
-        "excerpt":"Pyrohammer 2026 zosta dzis oficjalnie opublikowany na ChampionsHub oraz Discordzie i na socialach.   Zapraszamy do zgłoszeń!      ","categories": ["News"],
+        "excerpt":"Pyrohammer 2026 został dziś oficjalnie opublikowany na ChampionsHub oraz Discordzie i na socialach.   Zapraszamy do zgłoszeń!      ","categories": ["News"],
         "tags": ["News","Updates"],
         "url": "/news/druga-edycja-turnieju-ogloszona/",
+        "teaser": null
+      },{
+        "title": "Aktualizacja: gramy łącznie sześć gier",
+        "excerpt":"Szybka aktualizacja! Dostaliśmy sporo pytań o zmianę terminarza i zaplanowanie sześciu gier. Z uwagi na to, że mamy zapas czasowy w sobotę i gry mogą być nieco krótsze, to z chęcią wprowadzimy taką zmianę.   Zagramy 4 gry w sobotę i 2 gry w niedzielę.      ","categories": ["News"],
+        "tags": ["News","Updates"],
+        "url": "/news/gramy-szesc-gier/",
         "teaser": null
       },{
     "title": "Pyrohammer 2025",
@@ -78,7 +84,7 @@ var store = [{
     "excerpt":"Strefa Zero Poznań - [Facebook](https://www.facebook.com/StrefaZeroPoznan)  Dominik Kornaś \"Myzu\" - Discord: dominikkornas  Radosław Woźniak \"Luc\" - Discord: lucvanhal  ","url": "https://pyrohammer.pl/organizatorzy/"
   },{
     "title": "Terminarz",
-    "excerpt":"### 📅 Data  Turniej odbędzie się 05-06 grudnia (sobota-niedziela) 2026 r.  Gramy 4 bitwy w sobotę i 2 w niedzielę.  Każda bitwa trwa 2h  ### 🎲 Sobota  09:15 - 09:30 – Zapisy, potwierdzenie obecności  09:30 - 11:30 – I Bitwa  11:45 - 13:45 – II Bitwa  13:45 - 14:45 – Przerwa obiadowa  14:45 - 16:45 – III Bitwa  17:00 - 19:00 – IV Bitwa  20:30 - ??:?? – Afterparty  ### 🎲 Niedziela  9:00 - 11:00 - V Bitwa  11:15 - 13:15 - VI Bitwa  13:30 – ogłoszenie wyników i zakończenie turnieju   ","url": "https://pyrohammer.pl/terminarz/"
+    "excerpt":"### 📅 Data  Turniej odbędzie się 05-06 grudnia (sobota-niedziela) 2026 r.  Gramy 4 bitwy w sobotę i 2 w niedzielę.  Każda bitwa trwa 2h  Możliwe drobne korekty czasowe {: .notice--info}  ### 🎲 Sobota  09:15 - 09:30 – Zapisy, potwierdzenie obecności  09:30 - 11:30 – I Bitwa  11:45 - 13:45 – II Bitwa  13:45 - 14:45 – Przerwa obiadowa  14:45 - 16:45 – III Bitwa  17:00 - 19:00 – IV Bitwa  20:30 - ??:?? – Afterparty  ### 🎲 Niedziela  9:00 - 11:00 - V Bitwa  11:15 - 13:15 - VI Bitwa  13:30 – ogłoszenie wyników i zakończenie turnieju   ","url": "https://pyrohammer.pl/terminarz/"
   },{
     "title": "Wyniki",
     "excerpt":"## Wyniki turnieju Pyrohammer 2026   ","url": "https://pyrohammer.pl/wyniki/"
